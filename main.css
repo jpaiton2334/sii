@@ -15,7 +15,7 @@ footer {
     
   }
 
-   span {
+/*  span {
 	color: #fff;
 	margin-top: 30%;
 	text-shadow:
@@ -29,6 +29,8 @@ footer {
 		0 0 140px rgba(38,104,127,1),
 		0 0 180px rgba(38,104,127,1);
 }
+
+*/
 
 .btn-wsp{
     position: fixed;
